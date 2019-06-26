@@ -4,7 +4,7 @@ A color image processing OpenCL implementation based on the quaternions convolut
 The masks are based on the Prewitt horizontal edge mask.
 
 
-There are two implemetations:
+There are two implementations:
 
 The first one is based on images and samplers for an easy kernel implementation.
 
