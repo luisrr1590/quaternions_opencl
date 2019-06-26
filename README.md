@@ -1,5 +1,5 @@
 # quaternions_opencl
-A color image processing OpenCL implementation based on the quaternions convolution algorithm by S.J. Sangwine.
+A color image processing OpenCL implementation based on the quaternions convolution algorithm by S.J. Sangwine (1998).
 
 The masks are based on the Prewitt horizontal edge mask.
 
